@@ -1,0 +1,10 @@
+.bubble-grid {
+    display: grid;
+    gap: 15px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 350px));
+    font-size: 0.75em;
+    text-align: center;
+    margin-bottom: 15px;
+    padding: 24px;
+    margin: 0 auto;
+}

@@ -1,0 +1,9 @@
+*.csv
+*.xls
+*.xlsx
+*.code-workspace
+node_modules
+test
+data
+*.db
+*.next

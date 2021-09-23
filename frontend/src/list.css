@@ -1,0 +1,38 @@
+.sticky-inner-wrapper {
+    border-bottom: 1px solid white;
+    background: RGB(61,71,87);
+}
+
+.filter {
+    width: 100%;
+    margin: auto;
+    padding: 15px;
+}
+
+.filter-container {
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+}
+
+.filter-section {
+    width: 60%;
+    margin: auto;
+}
+
+.filter-section-col {
+    display: grid;
+    gap: 5px;
+    grid-template-columns: 1fr;
+    margin: auto;
+    width: 100%;
+}
+
+.filter-section-row {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 1fr;
+}
